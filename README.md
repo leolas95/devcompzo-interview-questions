@@ -1,7 +1,7 @@
 Interview questions
 ===
 
-Repo to host all of the interview questions for the community's mock interviews.
+Repo to host all the interview questions for the community's mock interviews.
 
 We have mainly two types of interviews:
 
